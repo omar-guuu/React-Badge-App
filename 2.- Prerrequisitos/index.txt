@@ -1,0 +1,9 @@
+
+Hay conocimientos que se requieren antes de cursar este curso.
+
+- Desarrollo web: HTML, CSS, JS
+- React es javascript: Conocimiento de Jquery para manipulacion de DOM, Promesas, async, callbacks, etc, conocimiento
+		       de javascript
+- Terminal de comandos: Para installar herramientas, correr servidores, tareas, etc.
+
+

@@ -1,0 +1,31 @@
+
+Impartido por Richard Kaufman - Ingeniero Frontend @sparragus
+
+
+
+	Que es reactJs?
+Es una biblioteca(libreria) de javascript para crear Interfaces de Usuario
+
+React es declarativo
+
+//Index.js
+
+<layout>
+ <header/>
+ <Blogpost post={data} />
+</layout>
+
+
+A esto se le llama JSX, podemos declarar HTML dentro de javascript
+
+
+	Clave en react: Componentes
+
+Bloques de codigo reusables ejemplo: Search bar, nav bar, lista de objetos
+
+
+	Aprende una vez, escribelo en donde sea
+Con react native se pueden crear aplicaciones nativas para mobile OS, applicaciones escritorio, web etc.
+
+
+En el proyecto final de ReactJs, podremos crear unas paginas para crear badges de Platzi.

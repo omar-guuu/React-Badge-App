@@ -1,0 +1,8 @@
+
+
+Herramientas que se deben de utilizar.
+
+Navegador: Aqui se usara chrome ya que tiene herramientas de desarrollo
+React Developer Tool: Estas herramientas desarrolladas por facebook nos permitira revisar el codigo de React en las aplicaciones
+Editor de Texto: Recomendado Visual Studio Code (asi lo tiene configurado el profesor) y tiene plugins para React
+Prettier: Para mostrar el codigo react de una manera presentable y agradable

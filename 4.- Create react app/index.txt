@@ -1,0 +1,32 @@
+
+Creat react app, es una aplicacion que se utiliza desde la linea de comando
+
+Antes de esta app: se tenia que hacer el setup para crear el entorno para crear una aplicacion
+
+Despues: se utiliza la linea de comando para crear un setup de manera facil y rapida
+
+
+
+Para todos los que estan siguiendo el tutorial al pie de la letra. 
+Les cuento que el comando npm install -g create-react-app ya fue sustituido por npx. 
+Asi que lo que tiene que hacer es lo siguiente. En caso de haber instalado previamente create-react-app se debe desinstalar:
+npm uninstall -g create-react-app.
+Y luego usar el comando npx create-react-app hello-react
+En caso de no tener instalado npx. Sencillamente instalarlo con:
+npm install -g npx
+
+
+
+para installar create-react-app, en la linea de codigo hay que escribir
+	npm install -g create-react-app
+
+para crear nuestra aplicacion
+	create-react-app hello-react
+
+una vez creada la aplicacion nos cambiamos a su directorio:
+	cd hello-react
+
+Para iniciar nuestra aplicacion:
+	npm run start
+
+Nota: cuando editamos nuestro codigo en index.js y salvamos, podemos ver los cambios en runtime

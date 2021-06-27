@@ -1,0 +1,13 @@
+
+Los componentes en ReactJs tienen un ciclo de vida:
+
+
+Montaje: Cuando los usuarios llegan a la aplicacion a este le apareceran los componentes
+
+
+Actualizacion: Se ejecuta el render, se genera el nuevo DOM, render()
+	       En este momento es donde se puede ejecutar el Metodo componintDidUpdate() para detectar cambios
+
+
+Desmontaje: React lanzara una señal llamada: componentWillUnmount() en el que podremos desaparecer los componentes 
+	    del DOM
